@@ -17,3 +17,4 @@ I build products, experiment with ideas, and share what I learn along the way.
 ## 📬 Connect
 
 - Visit my website: [felixfeger.com](https://felixfeger.com)
+- Email me: [hello@felixfeger.com](mailto:hello@felixfeger.com)
