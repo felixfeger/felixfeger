@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Felix Feger 👋
 
-<!--
-**felixfeger/felixfeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+I build products, experiment with ideas, and share what I learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Website
+
+- [felixfeger.com](https://felixfeger.com)
+
+## 🚀 What I’m focused on
+
+- Building useful digital experiences
+- Exploring new technologies and practical AI workflows
+- Shipping projects with clean, maintainable code
+
+## 📬 Connect
+
+- Visit my website: [felixfeger.com](https://felixfeger.com)
